@@ -44,3 +44,7 @@ footer {
 img {
   border: 5px solid #A9A9A9;
 }
+
+press img {
+  padding: 0 0 10px;
+}
